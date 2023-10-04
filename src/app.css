@@ -18,3 +18,10 @@
   font-size: 15px;
   font-family: var(--leagueSpartan);
 }
+
+body {
+  background-color: var(--lightGrayishMagenta);
+  padding: 4rem 0;
+  width: min(80%, 992px);
+  margin: 0 auto;
+}
